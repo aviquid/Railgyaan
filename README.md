@@ -1,4 +1,4 @@
-Tech Stack - GraphQL, React
+## Tech Stack - GraphQL, React
 
 ## Motivation
 Here goes my story - 
